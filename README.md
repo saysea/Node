@@ -30,31 +30,31 @@ V2Ray一个优秀开源网络代理工具，可帮你畅爽体验互联网，目
 
 > 5、我可以通过选中所有的节点，右击用ping来查看节点延迟.
 
-[========]
+----
 
 
 
 ### 手机使用
-<img src="https://cdn.honeyshaddock.fun/nga1.png" width="500" >
+<img src="https://cdn.honeyshaddock.fun/nga1.png" height="500" >
 
 > 1、安装完成后，复制好节点信息，点击软件右上角的加号.
 
 
-<img src="https://cdn.honeyshaddock.fun/nga2.png" width="500" >
+<img src="https://cdn.honeyshaddock.fun/nga2.png" height="500" >
 
 > 2、选择从粘贴板导入.
 
 
-<img src="https://cdn.honeyshaddock.fun/nga3.png" width="500" >
+<img src="https://cdn.honeyshaddock.fun/nga3.png" height="500" >
 
 > 3、成功导入节点信息后，选择一个节点，点击右下角的图标，显示链接成功即可.
 
 
-<img src="https://cdn.honeyshaddock.fun/nga4.png" width="500" >
+<img src="https://cdn.honeyshaddock.fun/nga4.png" height="500" >
 
 > 4、最后我们可以点击左下角，测试一下网速.
 
-[========]
+----
 
 
 > 关注公众号`自由科技站` 回复`free`即可获取全部节点哦!外加一款免费“上网”工具哦！
